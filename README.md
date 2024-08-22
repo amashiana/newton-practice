@@ -1,2 +1,2 @@
 # newton-practice
-Newton's Method Practice
+Newton's Method Practice 
